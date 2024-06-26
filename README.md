@@ -1,7 +1,7 @@
-# Alzheimer's Disease Predictions
+# 🤯 Alzheimer's Disease Predictions 🧠
 
 ## Table of Contents
-- [Alzheimer's Disease Predictions](#alzheimers-disease-predictions)
+- [🤯 Alzheimer's Disease Predictions 🧠](#-alzheimers-disease-predictions-)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Importing Libraries](#importing-libraries)
