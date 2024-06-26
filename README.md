@@ -39,7 +39,7 @@ This project focuses on predicting Alzheimer's Disease using various machine lea
 - xgboost
 
 ## Data
-The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from ![kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data).
+The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from [kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data).
 
 ## Descriptive Analysis
 - Checked dimensions, missing values, data types, and basic statistics of the dataset.
@@ -73,7 +73,7 @@ The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from !
 - Evaluated the model using accuracy, precision, recall, F1 score, and ROC AUC score.
 
 ##### Confusion Matrix
-![Random Forest Confusion Matrix](Random Forest/confusion_matrix.png)
+![Random Forest Confusion Matrix](/Random%20Forest/confusion_matrix.png)
 
 ### XGBoost
 - Performed XGBoost classification with cross-validation.
