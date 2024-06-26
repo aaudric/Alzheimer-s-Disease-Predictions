@@ -73,10 +73,15 @@ The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from [
 ![Logistic Regression Confusion Matrix](/Reg%20Log/confusion_matrix.png)
 
 #### Metrics
+
 Test accuracy (Logistic Regression): `0.8255813953488372`
+
 Test precision (Logistic Regression): `0.7785714285714286`
+
 Test recall (Logistic Regression): `0.7124183006535948`
+
 Test F1 score (Logistic Regression): `0.7440273037542662`
+
 Test ROC AUC (Logistic Regression): `0.8002524716264364`
 
 ### Random Forest
@@ -87,10 +92,15 @@ Test ROC AUC (Logistic Regression): `0.8002524716264364`
 ![Random Forest Confusion Matrix](/Random%20Forest/confusion_matrix.png)
 
 #### Metrics
+
 Test accuracy (Random Forest): `0.9279069767441861`
+
 Test precision (Random Forest): `0.9621212121212122`
+
 Test recall (Random Forest): `0.8300653594771242`
+
 Test F1 score (Random Forest): `0.8912280701754386`
+
 Test ROC AUC (Random Forest): `0.9060074089804394`
 
 ### XGBoost
@@ -102,9 +112,13 @@ Test ROC AUC (Random Forest): `0.9060074089804394`
 
 #### Metrics
 Test accuracy (XGBoost): `0.9534883720930233`
+
 Test precision (XGBoost): `0.9235668789808917`
+
 Test recall (XGBoost): `0.9477124183006536`
+
 Test F1 score (XGBoost): `0.9354838709677419`
+
 Test ROC AUC (XGBoost): `0.9521955593308322`
 
 ## Deep Learning
@@ -124,9 +138,13 @@ Test ROC AUC (XGBoost): `0.9521955593308322`
 #### Metrics
 
 Test accuracy (ANN): `0.827906976744186`
+
 Test precision (ANN): `0.7762237762237763`
+
 Test recall (ANN): `0.7254901960784313`
+
 Test F1 score (ANN): `0.75`
+
 Test ROC AUC (ANN): `0.8049833651872301`
 
 ## Results
