@@ -1,21 +1,30 @@
-```markdown
 # Alzheimer's Disease Predictions
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Importing Libraries](#importing-libraries)
-- [Data](#data)
-- [Descriptive Analysis](#descriptive-analysis)
-- [Preprocessing](#preprocessing)
-- [Machine Learning Models](#machine-learning-models)
-  - [Logistic Regression](#logistic-regression)
-  - [Random Forest](#random-forest)
-  - [XGBoost](#xgboost)
-- [Deep Learning](#deep-learning)
-  - [Artificial Neural Network (ANN)](#artificial-neural-network-ann)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [References](#references)
+- [Alzheimer's Disease Predictions](#alzheimers-disease-predictions)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Importing Libraries](#importing-libraries)
+  - [Data](#data)
+  - [Descriptive Analysis](#descriptive-analysis)
+    - [Correlation Heatmap](#correlation-heatmap)
+    - [Diagnosis Distribution](#diagnosis-distribution)
+    - [Boxplot of Features](#boxplot-of-features)
+  - [Preprocessing](#preprocessing)
+  - [Machine Learning Models](#machine-learning-models)
+    - [Logistic Regression](#logistic-regression)
+        - [Confusion Matrix](#confusion-matrix)
+    - [Random Forest](#random-forest)
+        - [Confusion Matrix](#confusion-matrix-1)
+    - [XGBoost](#xgboost)
+        - [Confusion Matrix](#confusion-matrix-2)
+  - [Deep Learning](#deep-learning)
+    - [Artificial Neural Network (ANN)](#artificial-neural-network-ann)
+        - [Accuracy and Loss Plots](#accuracy-and-loss-plots)
+        - [Confusion Matrix](#confusion-matrix-3)
+  - [Results](#results)
+  - [Conclusion](#conclusion)
+  - [References](#references)
 
 ## Introduction
 This project focuses on predicting Alzheimer's Disease using various machine learning and deep learning models. The dataset used in this project is obtained from `alzheimers_disease_data.csv`.
@@ -97,4 +106,3 @@ Based on the results, each model provides different levels of accuracy and perfo
 ## References
 - Dataset: `alzheimers_disease_data.csv`
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, keras, xgboost
-```
