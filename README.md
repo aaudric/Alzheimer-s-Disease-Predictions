@@ -10,7 +10,7 @@
     - [Correlation Heatmap](#correlation-heatmap)
     - [Diagnosis Distribution](#diagnosis-distribution)
     - [Boxplot of Features](#boxplot-of-features)
-  - [Preprocessing](#preprocessing)
+  - [Preprocessing Data](#preprocessing-data)
   - [Machine Learning Models](#machine-learning-models)
     - [Logistic Regression](#logistic-regression)
         - [Confusion Matrix](#confusion-matrix)
@@ -34,13 +34,13 @@
 This project focuses on predicting Alzheimer's Disease using various machine learning and deep learning models. The dataset used in this project is obtained from `alzheimers_disease_data.csv`.
 
 ## Importing Libraries
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- keras
-- xgboost
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Keras
+- XGBoost
 
 ## Data
 The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from [kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data).
@@ -58,7 +58,7 @@ The dataset is loaded from a CSV file named `alzheimers_disease_data.csv` from [
 ### Boxplot of Features
 ![Boxplot of Features](/boxplot.png)
 
-## Preprocessing
+## Preprocessing Data
 - Split the data into features and target variables.
 - Split the data into training and testing sets.
 - Standardized the data.
