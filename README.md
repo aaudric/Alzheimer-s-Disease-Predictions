@@ -152,7 +152,7 @@ The project compares the performance of different machine learning and deep lear
 
 ![](/model_metrics.png)
 
-The best metrics are with the XGBoost model 
+The best metrics are with the XGBoost model.
 
 ## Conclusion
 Based on the results, each model provides different levels of accuracy and performance. The selection of the best model depends on the specific use case and requirements.
