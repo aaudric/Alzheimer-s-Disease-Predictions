@@ -149,7 +149,10 @@ Test ROC AUC (ANN): `0.8049833651872301`
 
 ## Results
 The project compares the performance of different machine learning and deep learning models for Alzheimer's Disease prediction. The evaluation metrics include accuracy, precision, recall, F1 score, and ROC AUC score.
-The best score is with the XGBoost model 
+
+![](/model_metrics.png)
+
+The best metrics are with the XGBoost model 
 
 ## Conclusion
 Based on the results, each model provides different levels of accuracy and performance. The selection of the best model depends on the specific use case and requirements.
